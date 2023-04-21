@@ -1,0 +1,7 @@
+// For Backend Developers:
+// Create a to-do application with following features:
+// 1. User can create task, delete it, modify it.
+// 2. Admin can view all the user and their task list
+// Use node js for backend server and mongoDB as database
+// Use html and css and javascript for frontend
+
